@@ -1,0 +1,7 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/sowxl/Desktop/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/sowxl/Desktop/project_2/project_2.srcs/sim_1/new/sim.v,1654033360,verilog,,,,Part1_16bit_simulation;Part1_simulation;Part2a_simulation;Part2b_simulation;Part2c_simulation;Part3_ALU_Simulation;Part4_TestBench;Project2Sim,,,,,,,,
+C:/Users/sowxl/Desktop/project_2/project_2.srcs/sources_1/new/modules.v,1654033557,verilog,,C:/Users/sowxl/Desktop/project_2/project_2.srcs/sim_1/new/sim.v,,ALU;ALUSystem;AddressRegisterFile;BasicComputer;HardwiredControlUnit;InstructionRegister;Memory;RegisterFile;clock_4_bit;mux1to2_8bit;mux2to4_8bit;reg_16_bit;reg_8_bit,,,,,,,,

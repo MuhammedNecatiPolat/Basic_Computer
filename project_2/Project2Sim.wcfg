@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Project2Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Project2Sim" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="740630000fs"></ZoomStartTime>
+      <ZoomEndTime time="1125130001fs"></ZoomEndTime>
+      <Cursor1Time time="1005477000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="148"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="46" />
+   <wvobject fp_name="/Project2Sim/comp/Clock" type="logic">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/RF_OutASel" type="array">
+      <obj_property name="ElementShortName">RF_OutASel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutASel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/RF_OutBSel" type="array">
+      <obj_property name="ElementShortName">RF_OutBSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutBSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/RF_FunSel" type="array">
+      <obj_property name="ElementShortName">RF_FunSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_FunSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/RF_RegSel" type="array">
+      <obj_property name="ElementShortName">RF_RegSel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_RegSel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ALU_FunSel" type="array">
+      <obj_property name="ElementShortName">ALU_FunSel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_FunSel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ARF_OutCSel" type="array">
+      <obj_property name="ElementShortName">ARF_OutCSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_OutCSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ARF_OutDSel" type="array">
+      <obj_property name="ElementShortName">ARF_OutDSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_OutDSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ARF_FunSel" type="array">
+      <obj_property name="ElementShortName">ARF_FunSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_FunSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ARF_RegSel" type="array">
+      <obj_property name="ElementShortName">ARF_RegSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_RegSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/IR_LH" type="logic">
+      <obj_property name="ElementShortName">IR_LH</obj_property>
+      <obj_property name="ObjectShortName">IR_LH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/IR_Enable" type="logic">
+      <obj_property name="ElementShortName">IR_Enable</obj_property>
+      <obj_property name="ObjectShortName">IR_Enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/IR_Funsel" type="array">
+      <obj_property name="ElementShortName">IR_Funsel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">IR_Funsel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/Mem_WR" type="logic">
+      <obj_property name="ElementShortName">Mem_WR</obj_property>
+      <obj_property name="ObjectShortName">Mem_WR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/Mem_CS" type="logic">
+      <obj_property name="ElementShortName">Mem_CS</obj_property>
+      <obj_property name="ObjectShortName">Mem_CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxASel" type="array">
+      <obj_property name="ElementShortName">MuxASel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxASel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxBSel" type="array">
+      <obj_property name="ElementShortName">MuxBSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxBSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxCSel" type="logic">
+      <obj_property name="ElementShortName">MuxCSel</obj_property>
+      <obj_property name="ObjectShortName">MuxCSel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/AOut" type="array">
+      <obj_property name="ElementShortName">AOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/BOut" type="array">
+      <obj_property name="ElementShortName">BOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">BOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ALUOut" type="array">
+      <obj_property name="ElementShortName">ALUOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ALUOutFlag" type="array">
+      <obj_property name="ElementShortName">ALUOutFlag[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOutFlag[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/ARF_COut" type="array">
+      <obj_property name="ElementShortName">ARF_COut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_COut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/Address" type="array">
+      <obj_property name="ElementShortName">Address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Address[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MemoryOut" type="array">
+      <obj_property name="ElementShortName">MemoryOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MemoryOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/IROut" type="array">
+      <obj_property name="ElementShortName">IROut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IROut[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxAOut" type="array">
+      <obj_property name="ElementShortName">MuxAOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxAOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxBOut" type="array">
+      <obj_property name="ElementShortName">MuxBOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxBOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/MuxCOut" type="array">
+      <obj_property name="ElementShortName">MuxCOut[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxCOut[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/opcode" type="array">
+      <obj_property name="ElementShortName">opcode[3:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/op_address" type="array">
+      <obj_property name="ElementShortName">op_address[7:0]</obj_property>
+      <obj_property name="ObjectShortName">op_address[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/regsel" type="array">
+      <obj_property name="ElementShortName">regsel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">regsel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/destreg" type="array">
+      <obj_property name="ElementShortName">destreg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">destreg[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/srcreg1" type="array">
+      <obj_property name="ElementShortName">srcreg1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">srcreg1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/srcreg2" type="array">
+      <obj_property name="ElementShortName">srcreg2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">srcreg2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/mem_ref_op" type="logic">
+      <obj_property name="ElementShortName">mem_ref_op</obj_property>
+      <obj_property name="ObjectShortName">mem_ref_op</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/timerFunSel" type="logic">
+      <obj_property name="ElementShortName">timerFunSel</obj_property>
+      <obj_property name="ObjectShortName">timerFunSel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/timerOut" type="array">
+      <obj_property name="ElementShortName">timerOut[3:0]</obj_property>
+      <obj_property name="ObjectShortName">timerOut[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/rf/Reg1" type="array">
+      <obj_property name="ElementShortName">Reg1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg1[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/rf/Reg2" type="array">
+      <obj_property name="ElementShortName">Reg2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg2[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/rf/Reg3" type="array">
+      <obj_property name="ElementShortName">Reg3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg3[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/rf/Reg4" type="array">
+      <obj_property name="ElementShortName">Reg4[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg4[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/address_rf/RegPC" type="array">
+      <obj_property name="ElementShortName">RegPC[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RegPC[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/address_rf/RegAR" type="array">
+      <obj_property name="ElementShortName">RegAR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RegAR[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Project2Sim/comp/alusys/address_rf/RegSP" type="array">
+      <obj_property name="ElementShortName">RegSP[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RegSP[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>
